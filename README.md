@@ -1,1 +1,1 @@
-| codeforces | [BetterCallUssif](https://usefahmed07.github.io/azkar/) |
+| codeforces | [Azkar Live](https://usefahmed07.github.io/azkar/) |
